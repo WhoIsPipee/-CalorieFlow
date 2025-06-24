@@ -30,7 +30,7 @@ Este proyecto fue desarrollado utilizando:
 - ⚛️ **React** — Librería principal para construir la interfaz.
 - 🟦 **TypeScript** — Tipado fuerte para JavaScript.
 - 🌬️ **Tailwind CSS** — Framework de CSS utility-first para diseño rápido y responsivo.
-- 💛 **JavaScript** — Para agregar dinamismo y lógica adicional.
+- 💛 **JavaScript** — Para agregar dinamismo (Muy Leve).
 
 ---
 
