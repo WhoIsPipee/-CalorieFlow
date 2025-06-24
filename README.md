@@ -17,12 +17,6 @@ Hecho con ❤️ por FelipeRulosAndrade
 
 </div>
 
----
-
-## 🖼️ Vista previa De Windows y responsivo para dispositivos móviles ! 
-
-![image](https://github.com/user-attachments/assets/9d76e621-dec8-428d-aefe-9b7bbdc4e556)
- <!-- Opcional: Puedes subir una imagen de ejemplo -->
 
 ---
 
@@ -45,5 +39,10 @@ Este proyecto fue desarrollado utilizando:
 - Efectos visuales usando Tailwind y pequeñas animaciones
 
 ---
+---
 
+## 🖼️ Vista previa De Windows y responsivo para dispositivos móviles ! 
+
+![image](https://github.com/user-attachments/assets/9d76e621-dec8-428d-aefe-9b7bbdc4e556)
+ <!-- Opcional: Puedes subir una imagen de ejemplo -->
 
