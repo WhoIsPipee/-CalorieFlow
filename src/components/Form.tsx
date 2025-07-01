@@ -96,7 +96,7 @@ export default function Form({ dispatch, state }: FormProps) {
                         <input
                             id="calories"
                             type="number"
-                            value={activity.calories}
+                            value={activity.calories === 0 ? '' : activity.calories}
                             onChange={handleChange}
                             placeholder="Ej. 300"
                             className="w-full px-4 py-3 rounded-xl bg-white text-slate-800 shadow-inner border border-slate-300 focus:outline-none focus:ring-2 focus:ring-sky-300"
