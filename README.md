@@ -1,54 +1,48 @@
-# React + TypeScript + Vite
+<div align="center">
+  <div align="center">
+Hecho con ❤️ por FelipeRulosAndrade
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+</div> ```
+  <h1> -🔥 CalorieFlow 🏋🏻‍♂️-</h1>
 
-Currently, two official plugins are available:
+  <p><strong>🔗 Enlace en vivo:</strong>  
+  👉 <a href="https://rad-cheesecake-3824af.netlify.app/" target="_blank">https://rad-cheesecake-3824af.netlify.app/</a></p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <br/>
 
-## Expanding the ESLint configuration
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+</div>
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🚀 Tecnologías utilizadas
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+Este proyecto fue desarrollado utilizando:
+
+- ⚛️ **React** — Librería principal para construir la interfaz.
+- 🟦 **TypeScript** — Tipado fuerte para JavaScript.
+- 🌬️ **Tailwind CSS** — Framework de CSS utility-first para diseño rápido y responsivo.
+- 💛 **JavaScript** — Para agregar dinamismo (Muy Leve).
+
+---
+
+## 🛠️ Funcionalidades principales
+
+- Portafolio visualmente atractivo y moderno
+- Diseño responsivo para dispositivos móviles y escritorio
+- Código modular y escalable
+- Efectos visuales usando Tailwind y pequeñas animaciones
+
+---
+---
+
+## 🖼️ Vista previa De Windows y responsivo para dispositivos móviles ! 
+
+![image](https://github.com/user-attachments/assets/9d76e621-dec8-428d-aefe-9b7bbdc4e556)
+ <!-- Opcional: Puedes subir una imagen de ejemplo -->
+
