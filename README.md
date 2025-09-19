@@ -6,7 +6,7 @@ Hecho con ❤️ por FelipeRulosAndrade
   <h1> -🔥 CalorieFlow 🏋🏻‍♂️-</h1>
 
   <p><strong>🔗 Enlace en vivo:</strong>  
-  👉 <a href="https://rad-cheesecake-3824af.netlify.app/" target="_blank">https://rad-cheesecake-3824af.netlify.app/</a></p>
+  👉 <a href="https://calorie-flow.netlify.app/" target="_blank">https://rad-cheesecake-3824af.netlify.app/</a></p>
 
   <br/>
 
