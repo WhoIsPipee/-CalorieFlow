@@ -6,7 +6,7 @@ Hecho con ❤️ por FelipeRulosAndrade
   <h1> -🔥 CalorieFlow 🏋🏻‍♂️-</h1>
 
   <p><strong>🔗 Enlace en vivo:</strong>  
-  👉 <a href="https://calorie-flow.netlify.app/" target="_blank">https://rad-cheesecake-3824af.netlify.app/</a></p>
+   <a href="https://calorie-flow.netlify.app/" target="_blank">https://rad-cheesecake-3824af.netlify.app/</a></p>
 
   <br/>
 
@@ -20,18 +20,18 @@ Hecho con ❤️ por FelipeRulosAndrade
 
 ---
 
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 Este proyecto fue desarrollado utilizando:
 
-- ⚛️ **React** — Librería principal para construir la interfaz.
-- 🟦 **TypeScript** — Tipado fuerte para JavaScript.
-- 🌬️ **Tailwind CSS** — Framework de CSS utility-first para diseño rápido y responsivo.
-- 💛 **JavaScript** — Para agregar dinamismo (Muy Leve).
+-  **React** — Librería principal para construir la interfaz.
+-  **TypeScript** — Tipado fuerte para JavaScript.
+-  **Tailwind CSS** — Framework de CSS utility-first para diseño rápido y responsivo.
+-  **JavaScript** — Para agregar dinamismo (Muy Leve).
 
 ---
 
-## 🛠️ Funcionalidades principales
+##  Funcionalidades principales
 
 - Portafolio visualmente atractivo y moderno
 - Diseño responsivo para dispositivos móviles y escritorio
@@ -41,7 +41,7 @@ Este proyecto fue desarrollado utilizando:
 ---
 ---
 
-## 🖼️ Vista previa De Windows y responsivo para dispositivos móviles ! 
+##  Vista previa De Windows y responsivo para dispositivos móviles ! 
 
 ![image](https://github.com/user-attachments/assets/9d76e621-dec8-428d-aefe-9b7bbdc4e556)
  <!-- Opcional: Puedes subir una imagen de ejemplo -->
